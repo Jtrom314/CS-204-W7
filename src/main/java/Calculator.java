@@ -6,7 +6,7 @@ class Calculator {
 
     }
 
-    /* Added a comment */
+    /* Added a comment  */
     int add(int a, int b) {
         return a + b;
     }
